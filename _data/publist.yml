@@ -1,11 +1,11 @@
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
+- title: "The human fungal pathogen Aspergillus fumigatus can produce the highest known number of meiotic crossovers"
+  image: azole_haplotype.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+  authors: Ben Auxier, Alfons JM Debets, Felicia Adelina Stanford, Johanna Rhodes, Frank M Becker, Francisca Reyes Marquez, Reindert Nijland, Paul S Dyer, Matthew C Fisher, Joost van den Heuvel, Eveline Snelders
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: hhttps://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002278
+    display: PLOS Biology 21(9) e3002278
   highlight: 1
 
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
