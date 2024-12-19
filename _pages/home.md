@@ -53,7 +53,7 @@ permalink: /
 </div>
 
 
-We are a broad research group, within the [Laboratory of Genetics](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/laboratory-of-genetics.htm). Our aim is to use the power of genetics to understand the world around us. We want to be able to build genetic systems to answer outstanding important scientific questions (see [Research](research)). 
+We are a dynamic research group, within the [Laboratory of Genetics](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/laboratory-of-genetics.htm). Our aim is to use the power of genetics to understand the world around us. We want to be able to build genetic systems to answer outstanding important scientific questions (see [Research](research)). 
 
 Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
 
