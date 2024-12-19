@@ -1,5 +1,5 @@
 
-- title: "The human fungal pathogen Aspergillus fumigatus can produce the highest known number of meiotic crossovers"
+- title: "2023 - The human fungal pathogen Aspergillus fumigatus can produce the highest known number of meiotic crossovers"
   image: azole_haplotype.png
   description: How much genetic recombination occurs in Aspergillus fumigatus? Using a set of whole genome sequenced meiotic progeny, we found that this species has the highest known density of crossovers. The relationship between this recombination rate and the origin of antifungal resistances is a topic of ongoing research.
   authors: Ben Auxier, Alfons JM Debets, Felicia Adelina Stanford, Johanna Rhodes, Frank M Becker, Francisca Reyes Marquez, Reindert Nijland, Paul S Dyer, Matthew C Fisher, Joost van den Heuvel, Eveline Snelders
@@ -8,7 +8,7 @@
     display: PLOS Biology 21(9) e3002278
   highlight: 1
 
-- title: "The Narrow Footprint of Ancient Balancing Selection Revealed by Heterokaryon Incompatibility Genes in Aspergillus fumigatus"
+- title: "2024 - The Narrow Footprint of Ancient Balancing Selection Revealed by Heterokaryon Incompatibility Genes in Aspergillus fumigatus"
   image: heterokaryons.png
   description: The scope for genetic interactions between individuals of Aspergillus fumigatus has been unclear. Fusion between individuals is thought to allow heterokaryons to be formed, which can mix genetic information. Here we should that this process is unlikely, and we identify five genes that limit this process. These gene are presumed to trigger cell death, and work is ongoing to better understand the cell death mechanism(s).
   authors: Ben Auxier, Jianhua Zhang, Francisca Reyes Marquez, Kira Senden, Joost van den Heuvel, Duur K Aanen, Eveline Snelders, Alfons JM Debets
@@ -18,10 +18,19 @@
   highlight: 1
 
 - title: "PREPRINT - Widely dispersed clonal expansion of multi-fungicide-resistant Aspergillus fumigatus limits genomic epidemiology prospects"
-  image: BSCCOgap.png
+  image: dummy.png
   description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
   authors: Eveline Snelders, Brandi N Celia-Sanchez, Ymke C Nederlof, Jianhua Zhang, Hylke H Kortenbosch, Bas J Zwaan, Marlou Tehupeiory-Kooreman, Alejandra Giraldo Lopez, Karin van Dijk, Li Wang, Marin T Brewer, Michelle Momany, Ben Auxier, Paul E Verweij
   link:
     url: https://www.biorxiv.org/content/10.1101/2024.07.29.605539.abstract
     display: bioRxiv
   highlight: 1
+  
+  - title: "2025 - An agar medium-based method for screening somatic incompatibility in Agaricus bisporus"
+  image: dummy.png
+  description: To understand how the grocery store mushroom recognises other individuals, we developed a method to screen interactions, based on localized cell death. Not on agar plates, we show that this occurs in real world settings as well. If you mix two individuals in small scale commercial environments, we show a reduced yeild. This method facilitates future work on the topic, including mapping the genes involved.
+  authors: Karin Scholtmeijer, Ben Auxier, Alfons JM Debets, Duur K Aanen, Johan JP Baars, Arend F van Peer
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1878614624001545
+    display: Fungal Genetics and Biology 129(1) 101522
+  highlight: 2
