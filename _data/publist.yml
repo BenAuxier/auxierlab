@@ -1,22 +1,21 @@
 
 - title: "The human fungal pathogen Aspergillus fumigatus can produce the highest known number of meiotic crossovers"
   image: azole_haplotype.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  description: How much genetic recombination occurs in Aspergillus fumigatus? Using a set of whole genome sequenced meiotic progeny, we found that this species has the highest known density of crossovers. The relationship between this recombination rate and the origin of antifungal resistances is a topic of ongoing research.
   authors: Ben Auxier, Alfons JM Debets, Felicia Adelina Stanford, Johanna Rhodes, Frank M Becker, Francisca Reyes Marquez, Reindert Nijland, Paul S Dyer, Matthew C Fisher, Joost van den Heuvel, Eveline Snelders
   link:
     url: hhttps://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002278
     display: PLOS Biology 21(9) e3002278
   highlight: 1
 
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
+- title: "The Narrow Footprint of Ancient Balancing Selection Revealed by Heterokaryon Incompatibility Genes in Aspergillus fumigatus"
+  image: heterokaryons.png
   description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+  authors: Ben Auxier, Jianhua Zhang, Francisca Reyes Marquez, Kira Senden, Joost van den Heuvel, Duur K Aanen, Eveline Snelders, Alfons JM Debets
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
+    url: https://academic.oup.com/mbe/article-abstract/41/5/msae079/7656911
+    display: Molecular Biology & Evolution 41(5) msae079
   highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
   image: BSCCOgap.png
