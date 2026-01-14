@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: Fungal Genetics @ WUR: Evolution at small scales.
 
 profile:
