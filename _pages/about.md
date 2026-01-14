@@ -25,5 +25,3 @@ latest_posts:
 ---
 
 I am a fungal evolutionary geneticist originally from Canada. I did my BSc and MSc degrees at the University of British Columbia. I then moved to the Netherlands to work on how basidiomycetes (fungi that make mushrooms), under the supervision of Dr. Duur Aanen. After graduation I stayed in the Netherlands, and am currently working as Assistant Professor at Wageningen University & Research, working in the Laboratory of Genetics.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
