@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+name: Ben Auxier
+image: images/Ben.WUR.jpg
+role: Assistant Professor
+affiliation: Wageningen University & Reserach
 aliases:
   - J. Smith
   - J Smith
