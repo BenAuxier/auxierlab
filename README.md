@@ -1,3 +1,5 @@
+Visit **[benauxier.github.io/auxierlab](https://benauxier.github.io/auxierlab)** 🚀
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17228741.svg)](https://doi.org/10.5281/zenodo.17228741)
 
 <h1 align="center">Lab Website Template</h1>
