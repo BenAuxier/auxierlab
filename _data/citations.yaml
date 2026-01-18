@@ -1,192 +1,223 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1101/2025.10.01.678058
+  title: "Evolutionary divergence in sympatric populations of the fungal pathogen\n\
+    \                  <i>Alternaria alternata</i>\n                  across wild\
+    \ tomato hosts"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Tamara Schmey
+  - Ben Auxier
+  - Stefan Krebs
+  - Satish Kumar Patneedi
+  - Farooq Ahmad
+  - Michael Habig
+  - Remco Stam
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2025-10-01'
+  link: https://doi.org/hbkdbb
+  orcid: 0000-0002-7743-0610
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2025.08.15.670591
+  title: "Genetic mapping and nuclear interactions of an incompatibility response\
+    \ in\n                  <i>Agaricus bisporus</i>"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - K. Scholtmeijer
+  - B. Auxier
+  - Patrick Hendrickx
+  - B Lavrijssen
+  - A.J.M. Debets
+  - JJP. Baars
+  - DK Aanen
+  - A. van Peer
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2025-08-21'
+  link: https://doi.org/hbkdbc
+  orcid: 0000-0002-7743-0610
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1093/ismejo/wraf246
+  title: Land use drives drug resistance in an airborne human fungal pathogen
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Hylke H Kortenbosch
+  - Bo Briggeman
+  - Francisca Reyes Marquez
+  - Ben Auxier
+  - Sytze de Bruin
+  - Bas J Zwaan
+  - Eveline Snelders
+  publisher: The ISME Journal
+  date: '2025-01-01'
+  link: https://doi.org/hbkdbd
+  orcid: 0000-0002-7743-0610
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1093/molbev/msae079
+  title: The Narrow Footprint of Ancient Balancing Selection Revealed by Heterokaryon
+    Incompatibility Genes in <i>Aspergillus fumigatus</i>
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Ben Auxier
+  - Jianhua Zhang
+  - Francisca Reyes Marquez
+  - Kira Senden
+  - Joost van den Heuvel
+  - Duur K Aanen
+  - Eveline Snelders
+  - Alfons J M Debets
+  publisher: Molecular Biology and Evolution
+  date: '2024-04-23'
+  link: https://doi.org/hbkdbf
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18174/587592
+  title: Evolutionary genetics of nonself recognition regarding social and sexual
+    interactions of fungi
+  authors:
+  - Ben Auxier
+  publisher: Wageningen University and Research
+  date: ''
+  link: https://doi.org/hbkdbg
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.24.529839
+  title: Community diversity affects functionality and species sorting during propagation
+    of a natural microbial community
+  authors:
+  - Alanna Leale
+  - Ben Auxier
+  - Eddy J. Smid
+  - Sijmen Schoustra
   publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-02-24'
+  link: https://doi.org/hbkdbh
+  orcid: 0000-0002-7743-0610
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2022.11.25.517501
+  title: "Identification of heterokaryon incompatibility genes in\n              \
+    \    <i>Aspergillus fumigatus</i>\n                  highlights a narrow footprint\
+    \ of ancient balancing selection"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Ben Auxier
+  - Jianhua Zhang
+  - Francisca Reyes Marquez
+  - Kira Senden
+  - Joost van den Heuvel
+  - Duur K. Aanen
+  - Eveline Snelders
+  - Alfons J.M. Debets
   publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-11-25'
+  link: https://doi.org/hbkdbj
+  orcid: 0000-0002-7743-0610
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.7554/eLife.75917
+  title: Modeling the consequences of the dikaryotic life cycle of mushroom-forming
+    fungi on genomic conflict
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Benjamin Auxier
+  - "Tam\xE1s L Cz\xE1r\xE1n"
+  - Duur K Aanen
+  publisher: eLife
+  date: '2022-04-20'
+  link: https://doi.org/hbkdbk
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.14.476329
+  title: "Meiosis in the human pathogen\n                  <i>Aspergillus fumigatus</i>\n\
+    \                  has the highest known number of crossovers"
+  authors:
+  - Ben Auxier
+  - Frank Becker
+  - Reindert Nijland
+  - Alfons J. M. Debets
+  - Joost van den Heuvel
+  - Eveline Snelders
+  publisher: openRxiv
+  date: '2022-01-15'
+  link: https://doi.org/gsxqg8
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2021.07.070
+  title: Ancestral predisposition toward a domesticated lifestyle in the termite-cultivated
+    fungus Termitomyces
+  authors:
+  - Lennart J.J. van de Peppel
+  - Mathijs Nieuwenhuis
+  - Benjamin Auxier
+  - Alexey A. Grum-Grzhimaylo
+  - "Martha E. C\xE1rdenas"
+  - Z. Wilhelm de Beer
+  - D. Jean Lodge
+  - Matthew E. Smith
+  - Thomas W. Kuyper
+  - Ana E. Franco-Molano
+  - Timothy J. Baroni
+  - Duur K. Aanen
+  publisher: Current Biology
+  date: '2021-10-01'
+  link: https://doi.org/hbkdbm
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/microorganisms9061248
+  title: Cytoplasmic Mixing, Not Nuclear Coexistence, Can Explain Somatic Incompatibility
+    in Basidiomycetes
+  authors:
+  - Ben Auxier
+  - Karin Scholtmeijer
+  - Arend F. van Peer
+  - Johan J. P. Baars
+  - Alfons J. M. Debets
+  - Duur K. Aanen
+  publisher: Microorganisms
+  date: '2021-06-08'
+  link: https://doi.org/gkgsp7
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.28.103697
+  title: 'Living apart together: modelling the consequences of the dikaryotic life
+    cycle of mushroom-forming fungi for genomic conflict'
+  authors:
+  - Ben Auxier
+  - "Tam\xE1s Czaran"
+  - Duur K. Aanen
+  publisher: openRxiv
+  date: '2020-05-30'
+  link: https://doi.org/hbkdbn
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12862-018-1297-8
+  title: Diversity of opisthokont septin proteins reveals structural constraints and
+    conserved motifs
+  authors:
+  - Benjamin Auxier
+  - Jaclyn Dee
+  - Mary L. Berbee
+  - Michelle Momany
+  publisher: BMC Evolutionary Biology
+  date: '2019-01-07'
+  link: https://doi.org/hbkdbp
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.47301
+  title: Comment on 'Single nucleus sequencing reveals evidence of inter-nucleus recombination
+    in arbuscular mycorrhizal fungi'
+  authors:
+  - Benjamin Auxier
+  - Anna Bazzicalupo
+  publisher: eLife
+  date: '2019-10-25'
+  link: https://doi.org/hbkdbq
+  orcid: 0000-0002-7743-0610
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -202,9 +233,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -221,21 +249,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
