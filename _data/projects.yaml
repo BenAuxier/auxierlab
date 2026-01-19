@@ -1,27 +1,18 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Fungal virus evolution
+  subtitle: Why are mycoviruses so weak?
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
+  description: Fungi, like most organisms, are often infected by viruses (called mycoviruses). Infections by these viruses is often hard to detect, as infected and uninfected fungi look similar. This low virulence of mycoviruses is assumed to be because of the infection strategy.
+  
+- title: Fungal individuality
+  subtitle: Why do fungi enfoce their borders?
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
+  description: Fungi enforce strict individuality, based on the identity of a set of genes, often called het genes.
+  
 - title: Cool Tutorial
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
