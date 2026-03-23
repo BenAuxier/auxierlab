@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.03.14.711691
+  title: "Multiple nuclei means multiple chromosome sets in\n                  <i>Botrytis\
+    \ cinerea</i>\n                  and\n                  <i>Neurospora crassa</i>"
+  authors:
+  - Dian Zheng
+  - Jan A.L. van Kan
+  - Ben Auxier
+  publisher: openRxiv
+  date: '2026-03-17'
+  link: https://doi.org/hbtf4k
+  orcid: 0000-0002-7743-0610
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.10.01.678058
   title: "Evolutionary divergence in sympatric populations of the fungal pathogen\n\
     \                  <i>Alternaria alternata</i>\n                  across wild\
